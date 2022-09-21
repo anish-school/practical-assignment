@@ -23,10 +23,10 @@
 
 
 # 2. selling price after discount
-# cost = float(input("enter the cost "))
-# discount = float(input("enter the discount percentage "))
-# sale = cost - discount * cost / 100
-# print(sale)
+cost = float(input("enter the cost "))
+discount = float(input("enter the discount percentage "))
+sale = cost - discount * cost / 100
+print(sale)
 
 
 # 3. perimeter and area of shapes
